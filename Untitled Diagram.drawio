@@ -1,1 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T07:21:57.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.6" etag="AtSx-wSxIANDGZTm-hPI" type="github"><diagram id="fi-dgmD3xhvdSV2qHvHf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-23T07:26:37.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="LfAUrFUyfxEaxoaCodnq" version="20.3.6" type="github">
+  <diagram id="fi-dgmD3xhvdSV2qHvHf" name="Page-1">
+    <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CRXhOF31s2JtrwspcIlR-2" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Connections&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ ID: int&lt;br&gt;+ user_id: int&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ friend_id: int&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CRXhOF31s2JtrwspcIlR-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="CRXhOF31s2JtrwspcIlR-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CRXhOF31s2JtrwspcIlR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CRXhOF31s2JtrwspcIlR-5" target="CRXhOF31s2JtrwspcIlR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CRXhOF31s2JtrwspcIlR-5" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Users&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ ID: int&lt;br&gt;+ Name: varchar&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CRXhOF31s2JtrwspcIlR-6" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="CRXhOF31s2JtrwspcIlR-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-24" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
